@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/manas/.claude/**)",
+      "Read(//c/Users/manas/.claude/skills/**)",
+      "Bash(find C:/Users/manas/.claude -type f -name *design*)"
+    ]
+  }
+}
