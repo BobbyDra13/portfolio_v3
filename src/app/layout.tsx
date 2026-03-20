@@ -4,7 +4,7 @@ import { GeistMono } from "geist/font/mono";
 import "./globals.css";
 import Cursor from "@/components/Cursor";
 
-const siteUrl = "https://manaschandras.vercel.app";
+const siteUrl = "https://portfolio-v3-alpha-one.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
