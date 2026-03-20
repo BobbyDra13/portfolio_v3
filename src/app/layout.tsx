@@ -48,6 +48,9 @@ export const metadata: Metadata = {
     description:
       "Full-stack developer specializing in MERN stack, 3D web experiences, and modern UI. Based in Mumbai.",
   },
+  verification: {
+    google: "g99-eKZKgo6na3rBFPECSGvRQALY3njG0OwYBaRrmbw",
+  },
   robots: {
     index: true,
     follow: true,
